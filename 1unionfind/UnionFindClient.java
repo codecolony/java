@@ -1,6 +1,6 @@
 
 
-public class FirstClient {
+public class UnionFindClient {
 
 	/**
 	 * @param args
